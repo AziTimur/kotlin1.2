@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin1.2</string>
+    <string name="submit">SUBMIT</string>
+    <string name="random_button">RANDOM BUTTON</string>
+</resources>
